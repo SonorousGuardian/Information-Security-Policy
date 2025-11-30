@@ -54,7 +54,3 @@ Applies to all:
 
 ## 🧭 Review Cycle
 Policy reviewed **annually** or upon major business or threat changes.
-
----
-
-## 📂 Repository Structure
